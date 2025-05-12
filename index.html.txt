@@ -2,43 +2,45 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>My Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rashid Hussain Portfolio</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
-    <p>Web Developer | Designer | Student</p>
+    <h1>Rashid Hussain</h1>
+    <p>BS Mathematics Student</p>
   </header>
-
-  <nav>
-    <a href="#about">About</a>
-    <a href="#projects">Projects</a>
-    <a href="#contact">Contact</a>
-  </nav>
 
   <section id="about">
     <h2>About Me</h2>
-    <p>I'm a passionate web developer from Parachinar, Pakistan. I love creating websites and learning new technologies.</p>
+    <p>I am a BS Mathematics student with a passion for technology and problem-solving. I enjoy learning and using tools like Python and GitHub to work on practical projects.</p>
   </section>
 
-  <section id="projects">
-    <h2>Projects</h2>
+  <section id="skills">
+    <h2>Skills</h2>
     <ul>
-      <li><strong>Statistics Website:</strong> A dashboard to show data using charts (Chart.js)</li>
-      <li><strong>Weather App:</strong> A basic weather app using HTML, CSS, JS, and API</li>
+      <li>Excel</li>
+      <li>Python</li>
+      <li>Git</li>
+      <li>GitHub</li>
     </ul>
   </section>
 
+  <section id="experience">
+    <h2>Experience</h2>
+    <p>I have experience in teaching, helping others understand concepts clearly and effectively.</p>
+  </section>
+
   <section id="contact">
-    <h2>Contact Me</h2>
-    <p>Email: yourname@example.com</p>
-    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:rashidhussain3547@gmail.com">rashidhussain3547@gmail.com</a></p>
+    <p>Phone: <a href="tel:‪+923289075198‬">0328-9075198</a></p>
   </section>
 
   <footer>
-    <p>&copy; 2025 Your Name. All rights reserved.</p>
+    <p>&copy; 2025 Rashid Hussain</p>
   </footer>
 </body>
 </html>
+
